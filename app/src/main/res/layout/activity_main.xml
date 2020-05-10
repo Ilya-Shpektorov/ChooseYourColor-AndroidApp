@@ -8,7 +8,7 @@
 
     <Spinner
         android:id="@+id/chooseColor"
-        android:layout_width="409dp"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
         android:entries="@array/colors"
@@ -23,7 +23,6 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
-        android:layout_marginTop="8dp"
         android:background="@drawable/button_border"
         android:focusableInTouchMode="false"
         android:onClick="showDescription"
@@ -36,8 +35,8 @@
 
     <FrameLayout
         android:id="@+id/colouredZone"
-        android:layout_width="409dp"
-        android:layout_height="614dp"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

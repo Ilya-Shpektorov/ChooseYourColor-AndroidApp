@@ -8,9 +8,9 @@
         <item>"Голубой"</item>
     </string-array>
     <string-array name="description_of_temp">
-        <item>"Красный цвет выбрал"</item>
-        <item>"Жёлтый цвет выбрал"</item>
-        <item>"Зелёный цвет выбрал"</item>
-        <item>"Голубой цвет выбрал"</item>
+        <item>"Красный цвет выбрал сильный человек"</item>
+        <item>"Жёлтый цвет выбрал стремящийся к цели человек"</item>
+        <item>"Зелёный цвет выбрал умный человек"</item>
+        <item>"Голубой цвет границ для радости нет"</item>
     </string-array>
 </resources>
