@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="buttonFindDescription">"Показать описание "</string>
+    <string-array name="colors">
+        <item>"Красный"</item>
+        <item>"Жёлтый"</item>
+        <item>"Зелёный"</item>
+        <item>"Голубой"</item>
+    </string-array>
+    <string-array name="description_of_temp">
+        <item>"Красный цвет выбрал"</item>
+        <item>"Жёлтый цвет выбрал"</item>
+        <item>"Зелёный цвет выбрал"</item>
+        <item>"Голубой цвет выбрал"</item>
+    </string-array>
+</resources>
